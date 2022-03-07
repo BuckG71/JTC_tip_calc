@@ -1,7 +1,7 @@
-# import functions
+# IMPORT FUNCTIONS
 from tip_calc_functions import *
 
-# user greeting
+# USER GREETING
 print('\nThank you for choosing Bryan\'s Tip-Top Tip Calculator!')
 
 # USER INSTRUCTIONS
