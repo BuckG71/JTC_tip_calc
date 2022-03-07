@@ -14,4 +14,4 @@ The program prompts the user for input of the below items:
 * *Tip percentage*
 
 **<span style="color:chartreuse">OUTPUT:**  
-The program processes the user inputs to calculate the cost per person for a meal at a restaurant (including sales tax + the tip at the percentage input by user), then prints the output to the terminal. 
+The program processes the user inputs to calculate the cost per person for a meal at a restaurant (including sales tax + the tip at the percentage input by user), then prints the results to the terminal. 
